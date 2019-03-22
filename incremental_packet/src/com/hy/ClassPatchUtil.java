@@ -15,7 +15,7 @@ import java.util.List;
 
 public class ClassPatchUtil {
 	
-	public static String fileName="配送票监控1";//补丁文件名
+	public static String fileName="配送票监控2";//补丁文件名
 	
 	public static String patchFile="C:/办公文档/增量包/"+fileName+".txt";//补丁文件路径
 	public static String projectPath="C:/Development/WorkSpace_Online";//工作空间路径
